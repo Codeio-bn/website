@@ -316,7 +316,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .main-btn:hover, .white-btn:hover, .outline-btn:hover {
-    opacity: 0.8;
+    color: #6195FF;
+    background-color: #94b7ff;
 }
 
 
@@ -1067,7 +1068,15 @@ header {
 }
 
 
+/*------------------------------------*\
+	Algemene voorwaarden
+\*------------------------------------*/
 
+.wrap {
+    width: 75%;
+    padding-bottom: 18px;
+    padding-top: 18px;
+}
 
 
 /*------------------------------------*\
