@@ -1190,6 +1190,27 @@ header {
 }
 
 
+#trackalert {
+    background-color: #2f3136;
+}
+#trackalert .product-text li {
+    margin-left: 1em;
+    list-style-type: circle;
+}
+#trackalert .product-text li::marker {
+    color: #6195FF;
+}
+
+#workings {
+    background-color: #354052;
+}
+#workings i {
+    height: 1em;
+}
+#workings i.fa-2xl {
+    font-size: 3em;
+}
+
 /*------------------------------------*\
 	Contact
 \*------------------------------------*/
